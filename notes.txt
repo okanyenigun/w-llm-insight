@@ -1,0 +1,1 @@
+langchain'de react_single_input.py de parse fonksiyonu update edildi.
