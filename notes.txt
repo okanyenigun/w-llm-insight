@@ -1,1 +1,11 @@
 langchain'de react_single_input.py de parse fonksiyonu update edildi.
+
+
+1st terminal
+    python manage.py runserver
+
+2nd terminal
+    brew services start rabbitmq
+
+3rd terminal
+    celery -A llminsight worker --loglevel=info
